@@ -15,7 +15,7 @@ body{
 .container{
     width: 100%;
     height: 100vh;
-    /*background-image: linear-gradient(to top, rgb(134, 134, 145), rgb(222, 222, 235));*/
+    background: url(imagens/CREATIVE_3.png);
     background-size: cover;
     display: flex;
     justify-content: center;flex-direction: column;
